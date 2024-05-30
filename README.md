@@ -67,7 +67,6 @@ Adicione as seguintes dependências no `pom.xml` do seu projeto:
     </geolocate-systemPath>
 </properties>
 ```
-Inclua o banco de dados GeoLite2-City na pasta resources:
 
 
 ## Banco de Dados Local
@@ -75,8 +74,9 @@ Inclua o banco de dados GeoLite2-City na pasta resources:
 A aplicação utiliza o banco de dados `GeoLite2-City`, que deve ser baixado e colocado na pasta `resources` junto com o jar do componente.
 
 ## Passos para Configurar
-1. O banco de dados GeoLite2-City pode ser baixado em https://dev.maxmind.com/geoip/geolite2-free-geolocation-data.
-2. Extraia o arquivo .tar.gz e coloque o arquivo .mmdb na pasta resources do seu projeto.
+1. Inclua o banco de dados GeoLite2-City na pasta resources:
+2. O banco de dados GeoLite2-City pode ser baixado em https://dev.maxmind.com/geoip/geolite2-free-geolocation-data.
+3. Extraia o arquivo .tar.gz e coloque o arquivo .mmdb na pasta resources do seu projeto.
 OU
 1. Clone o repositório do projeto:
    ```sh
