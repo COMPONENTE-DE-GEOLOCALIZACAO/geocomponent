@@ -82,3 +82,4 @@ OU
    ```sh
    git clone https://github.com/COMPONENTE-DE-GEOLOCALIZACAO/geocomponent
 
+Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
