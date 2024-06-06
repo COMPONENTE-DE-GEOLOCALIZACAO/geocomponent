@@ -1,10 +1,10 @@
 # Geolocation Component
 
-Esta é uma aplicação Java desenvolvida no Eclipse IDE, utilizando o Maven como ferramenta de gerenciamento de dependências. A aplicação consiste em um componente de geolocalização que utiliza a API da MaxMind para obter dados de localização do usuário com base no IP da máquina.
+Este é um componente Java desenvolvido no Eclipse IDE, utilizando o Maven como ferramenta de gerenciamento de dependências. Consiste em um componente de geolocalização que utiliza a API da MaxMind para obter dados de localização do usuário com base no IP da máquina.
 
 ## Funcionalidades
 
-A aplicação recupera a localização do usuário (país, cidade, estado, latitude e longitude) com base no IP da máquina, utilizando o banco de dados da MaxMind.
+O componente recupera a localização do usuário (país, cidade, estado, latitude e longitude) com base no IP da máquina, utilizando o banco de dados da MaxMind.
 
 ## Estrutura do Projeto
 
